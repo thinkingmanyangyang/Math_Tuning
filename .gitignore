@@ -1,0 +1,5 @@
+backup/
+__pycache__
+data/
+output/
+eval_results/
